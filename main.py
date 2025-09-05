@@ -68,10 +68,10 @@ medication.fps = 3
 medication.x = ACTOR_POSITION_X
 medication.y = ACTOR_POSITION_Y
                                                         # Caca
-poops = ["caca_nouveau", "caca_03_0"]
-poop = Actor("caca_nouveau")
+poops = ["caca_0001", "caca_0002"]
+poop = Actor("caca_0001")
 poop.index_animation = 0
-poop.fps = 6
+poop.fps = 10
 poop.x = ACTOR_POSITION_X
 poop.y = ACTOR_POSITION_Y
                                                 # Nettoyer le chien
